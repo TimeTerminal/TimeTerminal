@@ -1,3 +1,3 @@
-- Hi, I’m Vishesh! 👋
-- I’m a full stack developer who's into React, Node, and currently learning Python 🐍
-- You can reach out to me at https://vishesh.carbonmade.com 📫
+- Hiya 👋, I’m Vishesh
+- I’m a full stack developer who's into React/Node and currently learning Python 🐍
+- 📫 Reach out to me at https://vishesh.carbonmade.com
